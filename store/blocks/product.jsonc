@@ -29,7 +29,9 @@
     ],
     "props":{
       "verticalAlign":"middle",
-      "preventVerticalStretch":"true"
+      "preventVerticalStretch": true,
+      "showSavings": true,
+      "showListPrice": true
     }
   }
 }
