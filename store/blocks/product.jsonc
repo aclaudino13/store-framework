@@ -31,7 +31,7 @@
       "verticalAlign":"middle",
       "preventVerticalStretch": true,
       "showSavings": true,
-      "showListPrice": true
+      "showListPrice": false
     }
   }
 }
